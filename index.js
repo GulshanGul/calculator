@@ -1,17 +1,17 @@
 // sound
 // function button click sound
 function sound1(){
-    const audio = new Audio('button-48.wav')
+    const audio = new Audio('but.wav')
     audio.play();
 }
 // function C button click sound
 function sound2(){
-    const audio = new Audio('button-3.wav')
+    const audio = new Audio('button-09a.wav')
     audio.play();
 }
 // function sum button click sound
 function sound3(){
-    const audio = new Audio('button-1.wav')
+    const audio = new Audio('button-20.wav')
     audio.play();
 }
 // sound ..................
